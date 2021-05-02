@@ -12,7 +12,7 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 ## 💻 Blog
 | Member  | Link |
 | ------------- | ------------- |
-| member  | link |
+| Szymon  | https://ml-gis-service.com/ |
 
 ## 🎥 YouTube
 | Member  | Link |
@@ -41,8 +41,14 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Uki | https://www.instagram.com/uwaga.kodowanko/ |
 | Uki | https://www.instagram.com/usigna__/ |
 | pxltr | https://www.instagram.com/tymon_zaniewski/ |
+| Szymon | https://www.instagram.com/molinsky_life |
 
 ## 🔊 Soundcloud
 | Member  | Link |
 | ------------- | ------------- |
 | pxltr | https://soundcloud.com/tymon-zaniewski |
+
+## :heartpulse: Open Source Projects
+| Member | Link |
+| ------------- | ------------- |
+| Szymon | https://pypi.org/project/pyinterpolate/ |
