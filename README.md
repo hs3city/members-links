@@ -29,6 +29,7 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Makneta | https://twitter.com/makneta |
 | Szymon | https://twitter.com/SimonMolinsky |
 | Uki | https://twitter.com/usigna__/ |
+| Blackweather | https://twitter.com/ka_szczepanski |
 
 ## 🐘 Mastodon
 | Member  | Link |
