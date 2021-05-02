@@ -26,7 +26,7 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Nikisaku | https://twitter.com/nikisak |
 | Makneta | https://twitter.com/makneta |
 | Szymon | https://twitter.com/SimonMolinsky |
-| Uki | https://twitter.com/usigna__ |
+| Uki | https://twitter.com/usigna__/ |
 
 
 ## 📷 Instagram
