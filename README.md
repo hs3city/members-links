@@ -47,3 +47,8 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Member  | Link |
 | ------------- | ------------- |
 | pxltr | https://soundcloud.com/tymon-zaniewski |
+
+## :heartpulse: Open Source Projects
+| Member | Link |
+| ------------- | ------------- |
+| Szymon | https://pypi.org/project/pyinterpolate/ |
