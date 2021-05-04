@@ -63,3 +63,4 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Member  | Link |
 | ------------- | ------------- |
 | Blackweather  | https://www.goodreads.com/user/show/127872338-karol-szczepa-ski |
+| DoomHammer    | https://www.goodreads.com/doomhammer |
