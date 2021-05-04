@@ -66,7 +66,7 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Blackweather  | https://www.goodreads.com/user/show/127872338-karol-szczepa-ski |
 | DoomHammer    | https://www.goodreads.com/doomhammer |
 
-## LinkedIn
+## :elf_man: LinkedIn
 | Member  | Link |
 | ------------- | ------------- |
 | nikisaku | https://www.linkedin.com/in/nikisaku/ |
