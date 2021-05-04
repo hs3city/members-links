@@ -27,7 +27,7 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | ------------- | ------------- |
 | DoomHammer | https://twitter.com/DoomHammerNG |
 | Lost Soul | https://twitter.com/LostSoulofDOOM |
-| Nikisaku | https://twitter.com/nikisak |
+| nikisaku | https://twitter.com/nikisak |
 | Makneta | https://twitter.com/makneta |
 | Szymon | https://twitter.com/SimonMolinsky |
 | Uki | https://twitter.com/usigna__/ |
@@ -39,6 +39,7 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Member  | Link |
 | ------------- | ------------- |
 | pxltr | https://0x3c.pl/web/accounts/10106 |
+| nikisaku | https://0x3c.pl/@nikisaku |
 
 ## 📷 Instagram
 | Member  | Link |
@@ -64,3 +65,8 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | ------------- | ------------- |
 | Blackweather  | https://www.goodreads.com/user/show/127872338-karol-szczepa-ski |
 | DoomHammer    | https://www.goodreads.com/doomhammer |
+
+## LinkedIn
+| Member  | Link |
+| ------------- | ------------- |
+| nikisaku | https://www.linkedin.com/in/nikisaku/ |
