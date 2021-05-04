@@ -13,12 +13,14 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Member  | Link |
 | ------------- | ------------- |
 | Szymon  | https://ml-gis-service.com/ |
+| UPGrade | https://medium.com/@JakubCzaplinski |
 
 ## 🎥 YouTube
 | Member  | Link |
 | ------------- | ------------- |
 | Dawid Moczadło | https://www.youtube.com/channel/UCT2_r44LibWOJcDQJgmYyxw |
 | pxltr | https://www.youtube.com/channel/UCyLOd0FJRVnDH3yjp-nIB4A |
+| UPGrade | https://www.youtube.com/channel/UCqSOxcBL0ELm0k-N66XTNHQ |
 
 ## 🐦 Twitter
 | Member  | Link |
@@ -30,6 +32,8 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Szymon | https://twitter.com/SimonMolinsky |
 | Uki | https://twitter.com/usigna__/ |
 | Blackweather | https://twitter.com/ka_szczepanski |
+| UPGrade | https://twitter.com/MrUPGrade_/ |
+| UPGrade | https://twitter.com/MrUPGradeMusic |
 
 ## 🐘 Mastodon
 | Member  | Link |
@@ -48,6 +52,7 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Member  | Link |
 | ------------- | ------------- |
 | pxltr | https://soundcloud.com/tymon-zaniewski |
+| UPGrade | https://soundcloud.com/mrupgrade |
 
 ## :heartpulse: Open Source Projects
 | Member | Link |
