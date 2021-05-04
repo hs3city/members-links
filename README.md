@@ -58,3 +58,8 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Member | Link |
 | ------------- | ------------- |
 | Szymon | https://pypi.org/project/pyinterpolate/ |
+
+## :book: Goodreads
+| Member  | Link |
+| ------------- | ------------- |
+| Blackweather  | https://www.goodreads.com/user/show/127872338-karol-szczepa-ski |
