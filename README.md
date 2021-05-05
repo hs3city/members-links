@@ -1,5 +1,10 @@
 # members-links
-Digital garden, blog, youtube, twitter, instagram, etc. 
+
+A collection of profiles and projects of Hackerspace Trójmiasto members.
+
+If you are reading this and you're a HS3 member, add your links below and open a Pull Request.
+
+Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 
 ## 🌱 Digital garden
 | Member  | Link |
