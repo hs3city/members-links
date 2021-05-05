@@ -34,6 +34,7 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | Blackweather | https://twitter.com/ka_szczepanski |
 | UPGrade | https://twitter.com/MrUPGrade_/ |
 | UPGrade | https://twitter.com/MrUPGradeMusic |
+| Mateusz Bełczowski | https://twitter.com/mateusz__be |
 
 ## 🐘 Mastodon
 | Member  | Link |
@@ -65,8 +66,11 @@ Digital garden, blog, youtube, twitter, instagram, etc.
 | ------------- | ------------- |
 | Blackweather  | https://www.goodreads.com/user/show/127872338-karol-szczepa-ski |
 | DoomHammer    | https://www.goodreads.com/doomhammer |
+| Mateusz Bełczowski | https://www.goodreads.com/user/show/55816336-mateusz-be-czowski |
 
 ## :elf_man: LinkedIn
 | Member  | Link |
 | ------------- | ------------- |
 | nikisaku | https://www.linkedin.com/in/nikisaku/ |
+| Mateusz Bełczowski | https://www.linkedin.com/in/mateusz-belczowski/
+
