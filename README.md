@@ -19,6 +19,7 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | ------------- | ------------- |
 | Szymon  | https://ml-gis-service.com/ |
 | UPGrade | https://medium.com/@JakubCzaplinski |
+| serafin | https://www.aleksander-serafin.com/ |
 
 ## 🎥 YouTube
 | Member  | Link |
