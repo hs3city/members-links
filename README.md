@@ -20,6 +20,7 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | Szymon  | https://ml-gis-service.com/ |
 | UPGrade | https://medium.com/@JakubCzaplinski |
 | serafin | https://www.aleksander-serafin.com/ |
+| makneta | https://dev.to/makneta |
 
 ## 🎥 YouTube
 | Member  | Link |
@@ -34,7 +35,7 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | DoomHammer | https://twitter.com/DoomHammerNG |
 | Lost Soul | https://twitter.com/LostSoulofDOOM |
 | nikisaku | https://twitter.com/nikisak |
-| Makneta | https://twitter.com/makneta |
+| makneta | https://twitter.com/makneta |
 | Szymon | https://twitter.com/SimonMolinsky |
 | Uki | https://twitter.com/usigna__/ |
 | Blackweather | https://twitter.com/ka_szczepanski |
@@ -81,3 +82,4 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | nikisaku | https://www.linkedin.com/in/nikisaku/ |
 | Mateusz Bełczowski | https://www.linkedin.com/in/mateusz-belczowski/ |
 | Odkurzacz | https://www.linkedin.com/in/michalgryko/ |
+| makneta | https://www.linkedin.com/in/magdalena-ros%C5%82aniec-373b977b/ |
