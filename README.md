@@ -41,6 +41,7 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | UPGrade | https://twitter.com/MrUPGrade_/ |
 | UPGrade | https://twitter.com/MrUPGradeMusic |
 | Mateusz Bełczowski | https://twitter.com/mateusz__be |
+| Odkurzacz | https://twitter.com/0dkurzacz |
 
 ## 🐘 Mastodon
 | Member  | Link |
@@ -78,5 +79,5 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | Member  | Link |
 | ------------- | ------------- |
 | nikisaku | https://www.linkedin.com/in/nikisaku/ |
-| Mateusz Bełczowski | https://www.linkedin.com/in/mateusz-belczowski/
-
+| Mateusz Bełczowski | https://www.linkedin.com/in/mateusz-belczowski/ |
+| Odkurzacz | https://www.linkedin.com/in/michalgryko/ |
