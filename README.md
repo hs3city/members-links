@@ -13,6 +13,7 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | Lost Soul | https://lostsouldigitalgarden.gatsbyjs.io/ |
 | Uki | https://usigna.netlify.app/  |
 | pxltr | https://garden.tymon-zaniewski.xyz |
+| dreat | https://jungle.dreat.info |
 
 ## 💻 Blog
 | Member  | Link |
@@ -21,6 +22,7 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | UPGrade | https://medium.com/@JakubCzaplinski |
 | serafin | https://www.aleksander-serafin.com/ |
 | makneta | https://dev.to/makneta |
+| dreat | https://blog.dreat.info |
 
 ## 🎥 YouTube
 | Member  | Link |
@@ -43,6 +45,7 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | UPGrade | https://twitter.com/MrUPGradeMusic |
 | Mateusz Bełczowski | https://twitter.com/mateusz__be |
 | Odkurzacz | https://twitter.com/0dkurzacz |
+| dreat | https://twitter.com/dreat_ |
 
 ## 🐘 Mastodon
 | Member  | Link |
@@ -57,12 +60,14 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | Uki | https://www.instagram.com/usigna__/ |
 | pxltr | https://www.instagram.com/tymon_zaniewski/ |
 | Szymon | https://www.instagram.com/molinsky_life |
+| dreat | https://www.instagram.com/dreat_nihil |
 
 ## 🔊 Soundcloud
 | Member  | Link |
 | ------------- | ------------- |
 | pxltr | https://soundcloud.com/tymon-zaniewski |
 | UPGrade | https://soundcloud.com/mrupgrade |
+| dreat | https://soundcloud.com/dreat_nihil |
 
 ## :heartpulse: Open Source Projects
 | Member | Link |
@@ -75,6 +80,7 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | Blackweather  | https://www.goodreads.com/user/show/127872338-karol-szczepa-ski |
 | DoomHammer    | https://www.goodreads.com/doomhammer |
 | Mateusz Bełczowski | https://www.goodreads.com/user/show/55816336-mateusz-be-czowski |
+| dreat | https://www.goodreads.com/dreat |
 
 ## :elf_man: LinkedIn
 | Member  | Link |
@@ -83,3 +89,4 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | Mateusz Bełczowski | https://www.linkedin.com/in/mateusz-belczowski/ |
 | Odkurzacz | https://www.linkedin.com/in/michalgryko/ |
 | makneta | https://www.linkedin.com/in/magdalena-ros%C5%82aniec-373b977b/ |
+| dreat | https://www.linkedin.com/in/dreat |
