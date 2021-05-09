@@ -45,7 +45,7 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | UPGrade | https://twitter.com/MrUPGradeMusic |
 | Mateusz Bełczowski | https://twitter.com/mateusz__be |
 | Odkurzacz | https://twitter.com/0dkurzacz |
-| dreat | https://twitter.com/dreat_ |
+| dreat | https://twitter.com/dreat_/ |
 
 ## 🐘 Mastodon
 | Member  | Link |
