@@ -46,6 +46,7 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | Mateusz Bełczowski | https://twitter.com/mateusz__be |
 | Odkurzacz | https://twitter.com/0dkurzacz |
 | dreat | https://twitter.com/dreat_/ |
+| Dawid Moczadło | https://twitter.com/kannthu1/ |
 
 ## 🐘 Mastodon
 | Member  | Link |
@@ -61,6 +62,7 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | pxltr | https://www.instagram.com/tymon_zaniewski/ |
 | Szymon | https://www.instagram.com/molinsky_life |
 | dreat | https://www.instagram.com/dreat_nihil |
+| Dawid Moczadło | https://www.instagram.com/kannthu |
 
 ## 🔊 Soundcloud
 | Member  | Link |
