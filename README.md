@@ -11,7 +11,6 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | ------------- | ------------- |
 | DoomHammer  | https://garden.doomhammer.info/ |
 | Lost Soul | https://lostsouldigitalgarden.gatsbyjs.io/ |
-| Uki | https://usigna.netlify.app/  |
 | pxltr | https://garden.tymon-zaniewski.xyz |
 | dreat | https://jungle.dreat.info |
 
@@ -39,7 +38,6 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 | nikisaku | https://twitter.com/nikisak |
 | makneta | https://twitter.com/makneta |
 | Szymon | https://twitter.com/SimonMolinsky |
-| Uki | https://twitter.com/usigna__/ |
 | Blackweather | https://twitter.com/ka_szczepanski |
 | UPGrade | https://twitter.com/MrUPGrade_/ |
 | UPGrade | https://twitter.com/MrUPGradeMusic |
@@ -57,8 +55,6 @@ Everything counts, eg. digital garden, blog, youtube, twitter, instagram, etc.
 ## 📷 Instagram
 | Member  | Link |
 | ------------- | ------------- |
-| Uki | https://www.instagram.com/uwaga.kodowanko/ |
-| Uki | https://www.instagram.com/usigna__/ |
 | pxltr | https://www.instagram.com/tymon_zaniewski/ |
 | Szymon | https://www.instagram.com/molinsky_life |
 | dreat | https://www.instagram.com/dreat_nihil |
